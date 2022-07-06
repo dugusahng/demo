@@ -1,2 +1,3 @@
 welcone git!
 liujiabo
+printf('jin tian shi xinqi san')
